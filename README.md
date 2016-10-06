@@ -42,7 +42,7 @@ Les condicions són:
 
 * Es pot definir quants cavallers participen en la recerca
 * Cada un dels cavallers al seu torn tira un dau de quatre cares per determinar les caselles que ha d’avançar
-* Es pot especificar quina és la distància que hi ha fins a la torre de la princesa i en genera els "obstacles"
+* Es pot especificar quina és la distància que hi ha fins a la torre de la princesa i en genera els "obstacles" automàticament
 * Es poden definir diversos camins (opcional)
 
 
